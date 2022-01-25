@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg width="100%" height="100%" viewBox="0 0 297 398" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;">
-    <g transform="matrix(1,0,0,1,-611,-191)">
-        <g id="Top-Silkscreen" serif:id="Top Silkscreen" transform="matrix(1,0,0,1,-0.649209,-0.282909)">
+    <g transform="matrix(1,0,0,1,-611.649,-191.283)">
+        <g id="Top-Silkscreen" serif:id="Top Silkscreen">
             <rect x="611.649" y="191.283" width="296.449" height="397.13" style="fill:none;"/>
             <g transform="matrix(1,0,0,1,-17.794,-445.651)">
                 <path d="M764.156,747.709C765.631,754.629 760.776,761.463 754.306,764.334C742.986,769.356 721.868,741.209 734.452,734.534C750.116,731.646 737.337,768.663 723.351,768.501C716.269,768.419 710.089,761.672 709.93,754.597" style="fill:none;stroke:black;stroke-width:10.28px;"/>

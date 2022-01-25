@@ -1,6 +1,6 @@
-# Molly the Mermaid
+# Cuddles the Catacorn
 
-Molly the Mermaid is my 2022 badge project, following on from 2020's [Candy the Catacorn](https://galaxyallie.space/Candy-the-Catacorn/).
+Cuddles the Catacorn is the big sibling of 2020's [Candy the Catacorn](https://galaxyallie.space/Candy-the-Catacorn/).
 
 - Mermaid tail PCB intended to be used with a hand-made mermaid body for customization.
 - Raspberry Pi Pico used as a module to provide much functionality and enable easy assembly for beginners
